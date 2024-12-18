@@ -12,10 +12,10 @@ I’m driven by a passion for creating seamless, impactful solutions. As a full-
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,jenkins,c,html,css,bootstrap,php,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,jenkins,c,html,css,bootstrap,php,shell,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,rust)](https://skillicons.dev)
 
 
 
