@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<!-- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=F78CD6&lines=Hello%2C+It's+Med+Bachiri;Full-Stack+Developer" alt="Business Analyst"/>
-</a> -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78CD6&width=435&lines=Hello%2C+It's+Med+Bachiri;Full-Stack+Developer)](https://git.io/typing-svg)
 
 <div>
@@ -16,7 +12,7 @@ I’m driven by a passion for creating seamless, impactful solutions. As a full-
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,jenkins,c,html,css,bootstrap, tailwind,php,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,jenkins,c,html,css,bootstrap,php,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,ruby)](https://skillicons.dev)
