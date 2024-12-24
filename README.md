@@ -24,6 +24,9 @@ I’m driven by a passion for creating seamless, impactful solutions. As a full-
     <a href="https://www.linkedin.com/in/mohammed-el-bachiri-21016b253/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
+      <a href="mailto:mebashiry@gmail.com">
+        <img src="https://img.icons8.com/?size=100&id=ssxZpbpGvvl1&format=png&color=000000" alt="Email" width="35" height="35"/>
+    </a>
 </div>
 
 
