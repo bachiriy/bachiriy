@@ -15,7 +15,7 @@ I’m driven by a passion for creating seamless, impactful solutions. As a full-
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,jenkins,c,html,css,bootstrap,php,figma,vim,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,rust,ts,typescript)](https://skillicons.dev)
 
 
 
